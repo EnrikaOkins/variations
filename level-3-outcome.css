@@ -1,0 +1,20 @@
+
+
+strong {
+    font-weight: bold;
+}
+
+p {
+    border: 1px solid rgb(0, 0, 0); 
+}
+
+h1 {
+    color: rgb(218, 45, 45);
+     margin-block-start: 10cm; 
+    
+}
+
+
+h2 {
+    color: rgb(226, 100, 152); 
+}
