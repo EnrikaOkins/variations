@@ -2,20 +2,40 @@
 
 
   body {
-    margin: 10vh auto;
+    margin: 10vh auto; background-color: rgb(95, 105, 109);
   }
   
   
   h1 {
-    font-family: "Helvetica";
+    font-family: "Trebuchet MS";
     font-size: 5rem;
     margin-bottom: 20px;
+    color: rgb(218, 218, 218);
+    border: 3px;px
   }
   
   
   h3 {
+    font-family: "Helvetica";
     font-size: 32px;
     margin: 0;
     margin-bottom: 15px;
+    color: rgb(228, 66, 228);
   }
+
+  h2 {
+    font-family: "Helvetica";
+    font-size: 32px;
+    margin: 0;
+    margin-bottom: 15px;
+    color: rgb(218, 218, 218);
+  }
+
+  p {
+    color: azure;
+    border: 20px solid rgb(0, 0, 0); background-color: black; border-radius: 20cm;
+}
+
+ 
+
   
