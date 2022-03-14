@@ -1,0 +1,33 @@
+em {
+    background-color: rgb(172, 223, 79);
+    color: rgb(0, 0, 0);
+}
+
+strong {
+    font-weight: bold; color: hotpink;
+}
+
+p {
+    border: 3px solid rgb(0, 0, 0); font-family: "Helvetica" ; background-color: black; border-radius: 5cm; border-width: 5cm;
+}
+
+h1 {
+    color: rgb(236, 96, 190);  
+}
+
+h1 {
+	font-family: "Helvetica"; font-size: 500%; 
+}
+
+h2 {
+    color: rgb(255, 255, 255); font-family: "Helvetica"; padding-left: 620px; font-size: 250%; margin-bottom: 100px; background-color: black;
+}
+
+body {
+    color:hotpink
+}
+
+::backdrop {
+    color:rgb(8, 184, 131)
+}
+<div class="w3-center w3-padding-16">TELL ME</div>

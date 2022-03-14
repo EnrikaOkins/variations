@@ -1,0 +1,38 @@
+em {
+    background-color: rgb(172, 223, 79);
+    color: rgb(0, 0, 0);
+}
+
+strong {
+    font-weight: bold;
+}
+
+p {
+    border: 3px solid rgb(51, 0, 0); font-family: "monospace" ; background-color: darkred; font-weight: bold; border-radius: 1cm;
+}
+
+h1 {
+    color: rgb(155, 221, 79);
+     margin-block-start: 10cm; 
+    
+}
+
+h1 {
+	font-family: "monospace"; font-size: 1000%; padding-left: 10px; background-color: black; font-weight: bolder;
+}
+
+h2 {
+    color: rgb(255, 255, 255); font-family: "monospace"; padding-left: 700px; font-size: 500%; margin-bottom: 100px; background-color: darkred; text-transform: lowercase;
+}
+
+li {
+    font-family: monospace; color: rgb(240, 200, 200); font-weight:bolder;
+}
+
+ol {
+    border: 3px solid rgb(0, 0, 0); background-color: black; border-radius: 1cm;
+}
+
+body {
+    color: dimgrey;
+}
