@@ -24,3 +24,11 @@ body {
     text-align: center; background-color: black;
     
     }
+
+simple-linear {
+        background: linear-gradient(blue, pink);
+      }
+
+div {
+        transform: rotate(20deg);
+      }

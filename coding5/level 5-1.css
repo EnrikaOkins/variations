@@ -4,19 +4,19 @@ em {
 }
 
 strong {
-    font-weight: bold; color: hotpink;
+    font-weight: bold; color: rgb(10, 10, 10);
 }
 
 p {
-    border: 3px solid rgb(0, 0, 0); font-family: "Helvetica" ; background-color: black; border-radius: 5cm; border-width: 5cm;
+    border: 3px solid rgb(0, 0, 0); font-family: "Helvetica" ; background-color: black; border-radius: 5cm; border-width: 15cm;
 }
 
 h1 {
-    color: rgb(236, 96, 190);  
+    color: rgb(0, 0, 0);  
 }
 
 h1 {
-	font-family: "Helvetica"; font-size: 500%; 
+	font-family: "Helvetica"; font-size: 200%; 
 }
 
 h2 {
@@ -24,10 +24,24 @@ h2 {
 }
 
 body {
-    color:hotpink
+    color:rgb(8, 8, 8)
 }
 
 ::backdrop {
     color:rgb(8, 184, 131)
 }
-<div class="w3-center w3-padding-16">TELL ME</div>
+h1 {
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF; 
+  }
+ 
+  p {
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF; font-size: 500%;
+  }
+
+  h2 {
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF; font-size: 500%;
+  }
+
+  body {
+    margin: 10vh auto; background-color: rgb(173, 15, 147);
+  }

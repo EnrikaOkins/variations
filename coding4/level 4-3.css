@@ -9,15 +9,11 @@ p {
 }
 
 h1 {
-    color: rgb(35, 34, 126);
-     margin-block-start: 10cm; 
+    color: rgb(35, 34, 126); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
 
-h1 {
-	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 5000%; padding-left: 400px; color: rgb(40, 49, 128); background-color: rgb(212, 50, 50);
-}
 
 h2 {
-    color: rgb(25, 27, 146); font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; padding-left: 620px; font-size: 2000%; margin-bottom: 100px; background-color: rgb(207, 39, 39); background-size: 1px; font-weight:900;
+    color: rgb(25, 27, 146); font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; padding-left: 620px; font-size: 2000%; margin-bottom: 100px; background-size: 1px; font-weight:900;
 }
